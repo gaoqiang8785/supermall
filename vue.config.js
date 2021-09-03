@@ -1,3 +1,4 @@
+// vue-cli3配置
 module.exports = {
 	configureWebpack: {
 		resolve: {
